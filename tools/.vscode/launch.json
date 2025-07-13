@@ -1,0 +1,18 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+
+        {
+            "name": "Python Debugger: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": "--cfg_file cfgs/tta_w2kitti-c_models/secondiou/bagging_ie_heavy_bulding.yaml  --batch_size 4 --gpu_id 0 --pretrained_model ../output/tta_w2k_models/secondiou/source_pretrain/default/ckpt/checkpoint_epoch_20.pth"
+        }
+    ]
+}
