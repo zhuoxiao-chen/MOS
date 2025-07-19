@@ -1,6 +1,6 @@
 # MOS: Model Synergy for Test-Time Adaptation on LiDAR-Based 3D Object Detection
 
-Code release for the work: **MOS: Model Synergy for Test-Time Adaptation on LiDAR-Based 3D Object Detection** publish in **ICLR 2025** as an **Oral** paper! [[paper link]]([docs/mos.png](https://openreview.net/forum?id=Y6aHdDNQYD))
+Code release for the work: **MOS: Model Synergy for Test-Time Adaptation on LiDAR-Based 3D Object Detection** publish in **ICLR 2025** as an **Oral** paper! [[paper link]](https://openreview.net/forum?id=Y6aHdDNQYD)
 
 ![Alt text](docs/mos.png)
 
