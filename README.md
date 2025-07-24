@@ -188,7 +188,7 @@ python train.py --cfg_file cfgs/tta_w2k_models/secondiou/mos.yaml \
 
 Then test the ckpt 
 ```shell script
-python tet_tta.py --cfg_file cfgs/tta_w2k_models/secondiou/mos.yaml \
+python test_tta.py --cfg_file cfgs/tta_w2k_models/secondiou/mos.yaml \
     --batch_size ${BATCH_SIZE} --eval_all
 ```
 
